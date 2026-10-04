@@ -1,0 +1,167 @@
+[
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "danielle"
+    ],
+    "nome": "Danielle",
+    "telefone": "5511999480971",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "liane",
+      "pompom"
+    ],
+    "nome": "Liane - Pompom",
+    "telefone": "5511970692157",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "silvana"
+    ],
+    "nome": "Silvana",
+    "telefone": "5511993135805",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "reclamacao",
+    "regra": [
+      "monique",
+      "duque"
+    ],
+    "nome": "Monique - Duque",
+    "telefone": "5511936186452",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "ana paula"
+    ],
+    "nome": "Ana Paula",
+    "telefone": "5511942386613",
+    "aplicada": false,
+    "motivo": "ambíguo: 5 contatos casaram"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "ana paula"
+    ],
+    "nome": "Ana Paula",
+    "telefone": "5511950549403",
+    "aplicada": false,
+    "motivo": "ambíguo: 5 contatos casaram"
+  },
+  {
+    "tag": "reclamacao",
+    "regra": [
+      "ana claudia"
+    ],
+    "nome": "Ana Cláudia ✨️",
+    "telefone": "5511972021301",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "eliane",
+      "meg"
+    ],
+    "nome": "Eliane - Meg 🐶",
+    "telefone": "5511974234005",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "eliane",
+      "meg"
+    ],
+    "nome": "Eliane - Meg 🐶",
+    "telefone": "5511974234005",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "thais rios"
+    ],
+    "nome": "Thais Rios",
+    "telefone": "5511980166059",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "ana paula"
+    ],
+    "nome": "Ana Paula",
+    "telefone": "5511991186592",
+    "aplicada": false,
+    "motivo": "ambíguo: 5 contatos casaram"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "solange"
+    ],
+    "nome": "Solange Alves De Souza",
+    "telefone": "5511995535793",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "daniele oliveira"
+    ],
+    "nome": "Daniele Oliveira",
+    "telefone": "5511995778942",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "ana paula"
+    ],
+    "nome": "Ana Paula",
+    "telefone": "5511997228192",
+    "aplicada": false,
+    "motivo": "ambíguo: 5 contatos casaram"
+  },
+  {
+    "tag": "ja_avaliou",
+    "regra": [
+      "elisa",
+      "igel"
+    ],
+    "nome": "Ana Elisa Elisa Igel",
+    "telefone": "5511999209252",
+    "aplicada": true,
+    "motivo": "único"
+  },
+  {
+    "tag": "pendente",
+    "regra": [
+      "ana paula"
+    ],
+    "nome": "Ana Paula",
+    "telefone": "5511999973617",
+    "aplicada": false,
+    "motivo": "ambíguo: 5 contatos casaram"
+  }
+]

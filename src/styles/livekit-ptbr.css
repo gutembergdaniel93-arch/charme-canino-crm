@@ -1,0 +1,12 @@
+[data-lk-theme="default"] {
+  --lk-bg: #09090b;
+  --lk-bg2: #18181b;
+  --lk-accent-bg: #f97316;
+  --lk-accent-fg: #fff;
+  color: #fafafa;
+}
+
+.lk-prejoin { max-width: 100%; }
+.lk-button[data-lk-enabled="true"] { background: #f97316; }
+.lk-chat-header::after { content: "Chat da reunião"; }
+.lk-disconnect-button { background: #dc2626 !important; }

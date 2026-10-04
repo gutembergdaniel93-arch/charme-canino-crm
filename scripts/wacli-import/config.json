@@ -1,0 +1,120 @@
+{
+  "tenant_id": "00000000-0000-0000-0000-000000000001",
+  "instance_name": "Charme Canino (wacli - somente leitura)",
+  "store_phone": "5511913548945",
+  "team_numbers": {
+    "5511939457183": "Daniel (dono)",
+    "5511933304659": "Duda (recepção)",
+    "5511916067165": "Assyma Digital",
+    "5511913548945": "Loja Charme Canino"
+  },
+  "exclude_name_patterns": [
+    "NÃO ATENDER",
+    "NAO ATENDER"
+  ],
+  "business_name_patterns": [
+    "ltda",
+    " me$",
+    "eireli",
+    "s/a",
+    "s\\.a\\.",
+    "cnpj",
+    "banco",
+    "serasa",
+    "cobran",
+    "loja",
+    "pet shop",
+    "petshop",
+    "clinica",
+    "clínica",
+    "veterin"
+  ],
+  "people_tags": {
+    "reclamacao": [
+      {
+        "all": [
+          "mirna"
+        ],
+        "note": "Olho inchado (29/09) - escalar Daniel"
+      },
+      {
+        "all": [
+          "monique",
+          "duque"
+        ],
+        "note": "Duque: olho irritado (22/09) - escalar Daniel"
+      },
+      {
+        "all": [
+          "ana claudia"
+        ],
+        "note": "Reclamação [confirmar detalhe]"
+      }
+    ],
+    "ja_avaliou": [
+      {
+        "all": [
+          "thais rios"
+        ]
+      },
+      {
+        "all": [
+          "elisa",
+          "igel"
+        ]
+      },
+      {
+        "all": [
+          "liane",
+          "pompom"
+        ]
+      },
+      {
+        "all": [
+          "eliane",
+          "meg"
+        ]
+      },
+      {
+        "all": [
+          "danielle"
+        ]
+      },
+      {
+        "all": [
+          "silvana"
+        ]
+      }
+    ],
+    "pendente": [
+      {
+        "all": [
+          "ana paula"
+        ],
+        "note": "Pediu quarta 14/10 - sem confirmação da equipe"
+      },
+      {
+        "all": [
+          "daniele oliveira"
+        ],
+        "note": "Confirmou e não teve retorno"
+      },
+      {
+        "all": [
+          "eliane",
+          "meg"
+        ],
+        "note": "Vai remarcar"
+      },
+      {
+        "all": [
+          "solange"
+        ],
+        "note": "Remarcada para 10/10 às 11h"
+      }
+    ]
+  },
+  "existing_client_window_days": 7,
+  "include_groups": false,
+  "_nota_people_tags": "Regra casa se TODAS as palavras de 'all' aparecem no nome (palavra inteira, sem acento). Se a regra casar com mais de 1 contato, a tag NÃO é aplicada e o caso vai para out/revisar-tags-por-nome.json como ambíguo. Para resolver, acrescente 'phones': ['55...'] na regra."
+}

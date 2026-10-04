@@ -1,0 +1,45 @@
+{
+  "gerado_em": "2026-10-03T23:18:12.683628-03:00",
+  "historico_wacli_desde": "2026-07-06T10:01:42+00:00",
+  "leads": 1061,
+  "mensagens": 33690,
+  "origem": {
+    "outros": 710,
+    "existente": 135,
+    "anuncio": 35,
+    "sem_conversa": 159,
+    "anuncio_curso": 22
+  },
+  "excluidos": {
+    "nao_atender": 6,
+    "equipe": 3,
+    "empresa": 5
+  },
+  "tags": {
+    "origem:outros": 710,
+    "origem:existente": 135,
+    "excluir_campanhas": 14,
+    "nao_atender": 6,
+    "ja_avaliou": 6,
+    "sem_pedido_avaliacao": 8,
+    "origem:anuncio": 35,
+    "origem:sem_conversa": 159,
+    "origem:anuncio_curso": 22,
+    "equipe": 3,
+    "reclamacao": 2,
+    "empresa": 5,
+    "pendente": 3
+  },
+  "ignorados": {
+    "grupo": 11,
+    "newsletter_broadcast": 7,
+    "lid_sem_telefone": 8,
+    "reacoes": 0,
+    "msgs_grupo": 2729,
+    "msgs_sem_lead": 0
+  },
+  "casamentos_por_nome": {
+    "aplicados": 11,
+    "ambiguos_nao_aplicados": 5
+  }
+}

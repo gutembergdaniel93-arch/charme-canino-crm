@@ -1,0 +1,11 @@
+# Versões PINADAS (==) — NUNCA usar >= aqui.
+# Histórico:
+# - 20-21/05/2026: LiveKit Cloud reciclou réplicas e o `>=1.2.0` puxou versões
+#   novas que mudaram o comportamento da transcrição nativa (bug #3477).
+# - 25/05: pinado em ==1.5.8 + fix DataChannel
+# - 08/06: alguém reverteu pra >= → re-pinado
+# - 03/07: alguém reverteu de novo — re-pinado + fix DataChannel novamente
+livekit-agents==1.5.8
+livekit-plugins-deepgram==1.5.8
+livekit-plugins-silero==1.5.8
+python-dotenv==1.0.1
